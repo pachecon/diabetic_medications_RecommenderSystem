@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://example.com/">
-    <img src="./img/logo.png" alt="Logo" width="200" height="200">
-  </a>
-  <p style="text-align: justify">
-    The project consists of making predictions if a patient with diabetes is readmitted to the hospital. In the case of readmission, a recommendation is given regarding the dosage of diabetic medications. If the insulin and metformin medications should be increased, decreased or stayed normal, considering also the results of blood glucose tests and other features. 
-  </p>
-</p>
-
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
